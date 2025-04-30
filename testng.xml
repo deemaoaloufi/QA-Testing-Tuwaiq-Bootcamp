@@ -2,7 +2,7 @@
 <suite name="BasicSuite">
     <test name="BasicTest">
         <classes>
-            <class name="OpenCartWeb.OpenCartTest"/>
+            <class name="GitHubWeb.GithubTest"/>
         </classes>
     </test>
 </suite>
